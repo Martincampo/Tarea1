@@ -1,6 +1,6 @@
-bananas
-manzanas
-papas
+bananas --comprado
+manzanas --comprado
+papas --comprado
 cebollas
 lechuga
 tomates
