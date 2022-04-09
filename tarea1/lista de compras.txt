@@ -2,3 +2,6 @@ bananas
 manzanas
 papas
 cebollas
+lechuga
+tomates
+palta
